@@ -1,0 +1,73 @@
+{
+  "cat": {
+    "name": "Cat",
+    "username": "fluffy_cat",
+    "bio": "Just a lazy cat 🐾",
+    "followers": 987,
+    "following": 345,
+    "posts": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
+        "caption": "Lazy Sunday vibes 💤",
+        "likes": 120,
+        "comments": 65
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+        "caption": "Catching some sun ☀️",
+        "likes": 89,
+        "comments": 34
+      }
+    ]
+  },
+
+  "dog": {
+    "name": "Dog",
+    "username": "happy_dog",
+    "bio": "Woof! 🐶 Living my best life!",
+    "followers": 1345,
+    "following": 678,
+    "posts": [
+      {
+        "id": 1,
+        "image": "https://images.theconversation.com/files/625049/original/file-20241010-15-95v3ha.jpg?ixlib=rb-4.1.0&rect=4%2C12%2C2679%2C1521&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+        "caption": "Best day at the park 🐾",
+        "likes": 210,
+        "comments": 45
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.images.express.co.uk/img/dynamic/130/940x/secondary/Cavalier-King-Charles-Spaniel-5464056.jpg?r=1722869239639",
+        "caption": "Waiting for treats 🍖",
+        "likes": 185,
+        "comments": 20
+      }
+    ]
+  },
+
+  "parrot": {
+    "name": "Parrot",
+    "username": "talkative_parrot",
+    "bio": "Polly wants a cracker 🦜",
+    "followers": 765,
+    "following": 210,
+    "posts": [
+      {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?cs=srgb&dl=pexels-frans-van-heerden-201846-1463295.jpg&fm=jpg",
+        "caption": "Chilling on my perch 🌿",
+        "likes": 76,
+        "comments": 15
+      },
+      {
+        "id": 2,
+        "image": "https://birdsupplies.com/cdn/shop/articles/HORMONAL_BEHAVIOR_IN_PARROTS_HOW_TO_PET_A_PARROT.png?v=1739754875",
+        "caption": "Good morning humans ☀️",
+        "likes": 98,
+        "comments": 8
+      }
+    ]
+  }
+}
